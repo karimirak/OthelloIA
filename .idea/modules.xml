@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../PI2CChampionshipRunner/.idea/PI2CChampionshipRunner-main.iml" filepath="$PROJECT_DIR$/../../PI2CChampionshipRunner/.idea/PI2CChampionshipRunner-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/othello.iml" filepath="$PROJECT_DIR$/.idea/othello.iml" />
+    </modules>
+  </component>
+</project>
